@@ -13,7 +13,7 @@ Occasionally, GitHub customers need to move an organization from one Enterprise 
 
 ## Default Settings for GitHub Enterprise Cloud
 
-Below are the deault settings for a newly established GitHub Enterprise Cloud account. Please consider using this as a comparison when migrating new organizations over to a new Enterprise Account as an understanding of what policies will need to be re-established or configured at the organization level.
+Below are the default settings for a newly established GitHub Enterprise Cloud account. Please consider using this as a comparison when migrating new organizations over to a new Enterprise Account as an understanding of what policies will need to be re-established or configured at the organization level.
 
  ### Repositories
 ![](/repositories.png)
