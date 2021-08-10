@@ -7,13 +7,13 @@ Occasionally, GitHub customers need to move an organization from one Enterprise 
 ## Areas to consider
  * Policies configured at the Enterprise Account level supersede any configurations at the organization level
  * SAML/SSO, when configured at the Enterprise Account level, disables SSO/SAML configuration at the organization(s) level and will invalidate any organization level tokens (PAT/SAML)
- * If an Enterprise Account has SAML/SSO configured and an organization is being migrated underneath it, any Personal Access Token, SSH key, etc will need to be re-established which may affect any exsiting GitHub users or CI/CD workflows
+ * If an Enterprise Account has SAML/SSO configured and an organization is being migrated underneath it, any Personal Access Token, SSH key, etc will need to be re-established which may affect any existing GitHub users or CI/CD workflows
  * If an organization is being moved into a new Enterprise Account (A) from a previous Enterprise Account (B), any Enterprise Account owners/admins from (B) will need to be re-added to (A) and re-authenticated
 
 
 ## Default Settings for GitHub Enterprise Cloud
 
-Below are the deault settings for a newly established GitHub Enterprise Cloud account. Please consider useing this as a comparison when migrating new organizations over to a new Enterprise Account as an understanding of what policies will need to be re-established or configured at the organization level.
+Below are the deault settings for a newly established GitHub Enterprise Cloud account. Please consider using this as a comparison when migrating new organizations over to a new Enterprise Account as an understanding of what policies will need to be re-established or configured at the organization level.
 
  ### Repositories
 ![](/repositories.png)
