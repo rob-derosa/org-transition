@@ -11,6 +11,7 @@ Occasionally, GitHub customers need to move an organization from one Enterprise 
   * If an Enterprise Account has SAML/SSO configured and an organization is being migrated underneath it, any Personal Access Tokens, SSH keys, etc will need to be re-established which may affect any existing GitHub users or CI/CD workflows
  * If an organization is being moved into a new Enterprise Account (A) from a previous Enterprise Account (B), any Enterprise Account owners/admins from (B) will need to be re-added to (A) and re-authenticated
  * To promote innersource and sharing of repositories within an Enterprise Account, consider setting the visibility of repositories to `Internal` - this will allow anyone within the Enterprise Account (not just your organization) to find and contribute to that project.
+ * [Additional information around billing at the Enterprise Account level](https://docs.github.com/en/billing/managing-billing-for-your-github-account/about-billing-for-your-enterprise)
  
 
 
