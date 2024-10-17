@@ -13,10 +13,3 @@ Occasionally, GitHub customers need to move an organization from one Enterprise 
  * To promote innersource and sharing of repositories within an Enterprise Account, consider setting the visibility of repositories to `Internal` - this will allow anyone within the Enterprise Account (not just your organization) to find and contribute to that project
  * [Additional information around billing at the Enterprise Account level](https://docs.github.com/en/billing/managing-billing-for-your-github-account/about-billing-for-your-enterprise)
  * [See this doc that outlines the actual process for organization restructuring](https://docs.google.com/document/d/1pHiyFH_DUHUDFoBIfGTK3LTBsuU1ZgJB9lC6iqtcoJw/edit?usp=sharing) 
-
-
-## Default Settings for GitHub Enterprise Cloud
-
-Below are the default settings for a newly established GitHub Enterprise Cloud account. Please consider using this as a comparison when migrating new organizations over to a new Enterprise Account as an understanding of what policies will need to be re-established or configured at the organization level.
-
-** Please note that while these are the default settings for an Enterprise Account, you should discuss your specific needs with GitHub to determine where to apply policies and best practices.
