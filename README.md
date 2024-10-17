@@ -20,27 +20,3 @@ Occasionally, GitHub customers need to move an organization from one Enterprise 
 Below are the default settings for a newly established GitHub Enterprise Cloud account. Please consider using this as a comparison when migrating new organizations over to a new Enterprise Account as an understanding of what policies will need to be re-established or configured at the organization level.
 
 ** Please note that while these are the default settings for an Enterprise Account, you should discuss your specific needs with GitHub to determine where to apply policies and best practices.
-
- ### Repositories
-![](/assets/repositories.png)
-
- ### Actions
-![](/assets/actions.png)
-
- ### Project Policies
-![](/assets/project-policies.png)
-
- ### Team Policies
-![](/assets/team-policies.png) 
- 
- ### Org Policies
-![](/assets/org-policies.png)
-
- ### Security
-![](/assets/security.png)
-
- ### Domains
-![](/assets/domains.png)
-
- ### Webhooks
-![](/assets/webhooks.png)
